@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://hin1b28xckbe"]
+
+[node name="prueba" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_left = 113.0
+offset_top = 300.0
+offset_right = 1064.0
+offset_bottom = 355.0
+theme_override_font_sizes/font_size = 40
+text = "si sambio y funciono e cambio y carga de escenas"
